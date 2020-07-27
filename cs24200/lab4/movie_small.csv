@@ -1,0 +1,250 @@
+,title,director,year,imdb_score,gross,budget,duration,actor_1,actor_2,language,country,content_rating
+0,Avatar ,James Cameron,2009.0,7.9,760505847.0,237000000.0,178.0,CCH Pounder,Joel David Moore,English,USA,PG-13
+1,Pirates of the Caribbean: At World's End ,Gore Verbinski,2007.0,7.1,309404152.0,300000000.0,169.0,Johnny Depp,Orlando Bloom,English,USA,PG-13
+2,Spectre ,Sam Mendes,2015.0,6.8,200074175.0,245000000.0,148.0,Christoph Waltz,Rory Kinnear,English,UK,PG-13
+3,The Dark Knight Rises ,Christopher Nolan,2012.0,8.5,448130642.0,250000000.0,164.0,Tom Hardy,Christian Bale,English,USA,PG-13
+4,John Carter ,Andrew Stanton,2012.0,6.6,73058679.0,263700000.0,132.0,Daryl Sabara,Samantha Morton,English,USA,PG-13
+5,Spider-Man 3 ,Sam Raimi,2007.0,6.2,336530303.0,258000000.0,156.0,J.K. Simmons,James Franco,English,USA,PG-13
+6,Tangled ,Nathan Greno,2010.0,7.8,200807262.0,260000000.0,100.0,Brad Garrett,Donna Murphy,English,USA,PG
+7,Avengers: Age of Ultron ,Joss Whedon,2015.0,7.5,458991599.0,250000000.0,141.0,Chris Hemsworth,Robert Downey Jr.,English,USA,PG-13
+8,Harry Potter and the Half-Blood Prince ,David Yates,2009.0,7.5,301956980.0,250000000.0,153.0,Alan Rickman,Daniel Radcliffe,English,UK,PG
+9,Batman v Superman: Dawn of Justice ,Zack Snyder,2016.0,6.9,330249062.0,250000000.0,183.0,Henry Cavill,Lauren Cohan,English,USA,PG-13
+10,Superman Returns ,Bryan Singer,2006.0,6.1,200069408.0,209000000.0,169.0,Kevin Spacey,Marlon Brando,English,USA,PG-13
+11,Quantum of Solace ,Marc Forster,2008.0,6.7,168368427.0,200000000.0,106.0,Giancarlo Giannini,Mathieu Amalric,English,UK,PG-13
+12,Pirates of the Caribbean: Dead Man's Chest ,Gore Verbinski,2006.0,7.3,423032628.0,225000000.0,151.0,Johnny Depp,Orlando Bloom,English,USA,PG-13
+13,The Lone Ranger ,Gore Verbinski,2013.0,6.5,89289910.0,215000000.0,150.0,Johnny Depp,Ruth Wilson,English,USA,PG-13
+14,Man of Steel ,Zack Snyder,2013.0,7.2,291021565.0,225000000.0,143.0,Henry Cavill,Christopher Meloni,English,USA,PG-13
+15,The Chronicles of Narnia: Prince Caspian ,Andrew Adamson,2008.0,6.6,141614023.0,225000000.0,150.0,Peter Dinklage,Pierfrancesco Favino,English,USA,PG
+16,The Avengers ,Joss Whedon,2012.0,8.1,623279547.0,220000000.0,173.0,Chris Hemsworth,Robert Downey Jr.,English,USA,PG-13
+17,Pirates of the Caribbean: On Stranger Tides ,Rob Marshall,2011.0,6.7,241063875.0,250000000.0,136.0,Johnny Depp,Sam Claflin,English,USA,PG-13
+18,Men in Black 3 ,Barry Sonnenfeld,2012.0,6.8,179020854.0,225000000.0,106.0,Will Smith,Michael Stuhlbarg,English,USA,PG-13
+19,The Hobbit: The Battle of the Five Armies ,Peter Jackson,2014.0,7.5,255108370.0,250000000.0,164.0,Aidan Turner,Adam Brown,English,New Zealand,PG-13
+20,The Amazing Spider-Man ,Marc Webb,2012.0,7.0,262030663.0,230000000.0,153.0,Emma Stone,Andrew Garfield,English,USA,PG-13
+21,Robin Hood ,Ridley Scott,2010.0,6.7,105219735.0,200000000.0,156.0,Mark Addy,William Hurt,English,USA,PG-13
+22,The Hobbit: The Desolation of Smaug ,Peter Jackson,2013.0,7.9,258355354.0,225000000.0,186.0,Aidan Turner,Adam Brown,English,USA,PG-13
+23,The Golden Compass ,Chris Weitz,2007.0,6.1,70083519.0,180000000.0,113.0,Christopher Lee,Eva Green,English,USA,PG-13
+24,King Kong ,Peter Jackson,2005.0,7.2,218051260.0,207000000.0,201.0,Naomi Watts,Thomas Kretschmann,English,New Zealand,PG-13
+25,Titanic ,James Cameron,1997.0,7.7,658672302.0,200000000.0,194.0,Leonardo DiCaprio,Kate Winslet,English,USA,PG-13
+26,Captain America: Civil War ,Anthony Russo,2016.0,8.2,407197282.0,250000000.0,147.0,Robert Downey Jr.,Scarlett Johansson,English,USA,PG-13
+27,Battleship ,Peter Berg,2012.0,5.9,65173160.0,209000000.0,131.0,Liam Neeson,Alexander Skarsgård,English,USA,PG-13
+28,Jurassic World ,Colin Trevorrow,2015.0,7.0,652177271.0,150000000.0,124.0,Bryce Dallas Howard,Judy Greer,English,USA,PG-13
+29,Skyfall ,Sam Mendes,2012.0,7.8,304360277.0,200000000.0,143.0,Albert Finney,Helen McCrory,English,UK,PG-13
+30,Spider-Man 2 ,Sam Raimi,2004.0,7.3,373377893.0,200000000.0,135.0,J.K. Simmons,James Franco,English,USA,PG-13
+31,Iron Man 3 ,Shane Black,2013.0,7.2,408992272.0,200000000.0,195.0,Robert Downey Jr.,Jon Favreau,English,USA,PG-13
+32,Alice in Wonderland ,Tim Burton,2010.0,6.5,334185206.0,200000000.0,108.0,Johnny Depp,Alan Rickman,English,USA,PG
+33,X-Men: The Last Stand ,Brett Ratner,2006.0,6.8,234360014.0,210000000.0,104.0,Hugh Jackman,Kelsey Grammer,English,Canada,PG-13
+34,Monsters University ,Dan Scanlon,2013.0,7.3,268488329.0,200000000.0,104.0,Steve Buscemi,Tyler Labine,English,USA,G
+35,Transformers: Revenge of the Fallen ,Michael Bay,2009.0,6.0,402076689.0,200000000.0,150.0,Glenn Morshower,Kevin Dunn,English,USA,PG-13
+36,Transformers: Age of Extinction ,Michael Bay,2014.0,5.7,245428137.0,210000000.0,165.0,Bingbing Li,Sophia Myles,English,USA,PG-13
+37,Oz the Great and Powerful ,Sam Raimi,2013.0,6.4,234903076.0,215000000.0,130.0,Tim Holmes,Mila Kunis,English,USA,PG
+38,The Amazing Spider-Man 2 ,Marc Webb,2014.0,6.7,202853933.0,200000000.0,142.0,Emma Stone,Andrew Garfield,English,USA,PG-13
+39,TRON: Legacy ,Joseph Kosinski,2010.0,6.8,172051787.0,170000000.0,125.0,Jeff Bridges,Olivia Wilde,English,USA,PG
+40,Cars 2 ,John Lasseter,2011.0,6.3,191450875.0,200000000.0,106.0,Joe Mantegna,Thomas Kretschmann,English,USA,G
+41,Green Lantern ,Martin Campbell,2011.0,5.6,116593191.0,200000000.0,123.0,Ryan Reynolds,Temuera Morrison,English,USA,PG-13
+42,Toy Story 3 ,Lee Unkrich,2010.0,8.3,414984497.0,200000000.0,103.0,Tom Hanks,John Ratzenberger,English,USA,G
+43,Terminator Salvation ,McG,2009.0,6.6,125320003.0,200000000.0,118.0,Christian Bale,Bryce Dallas Howard,English,USA,PG-13
+44,Furious 7 ,James Wan,2015.0,7.2,350034110.0,190000000.0,140.0,Jason Statham,Paul Walker,English,USA,PG-13
+45,World War Z ,Marc Forster,2013.0,7.0,202351611.0,190000000.0,123.0,Peter Capaldi,Brad Pitt,English,USA,PG-13
+46,X-Men: Days of Future Past ,Bryan Singer,2014.0,8.0,233914986.0,200000000.0,149.0,Jennifer Lawrence,Peter Dinklage,English,USA,PG-13
+47,Star Trek Into Darkness ,J.J. Abrams,2013.0,7.8,228756232.0,190000000.0,132.0,Benedict Cumberbatch,Bruce Greenwood,English,USA,PG-13
+48,Jack the Giant Slayer ,Bryan Singer,2013.0,6.3,65171860.0,195000000.0,114.0,Eddie Marsan,Ewen Bremner,English,USA,PG-13
+49,The Great Gatsby ,Baz Luhrmann,2013.0,7.3,144812796.0,105000000.0,143.0,Leonardo DiCaprio,Elizabeth Debicki,English,Australia,PG-13
+50,Prince of Persia: The Sands of Time ,Mike Newell,2010.0,6.6,90755643.0,200000000.0,116.0,Jake Gyllenhaal,Richard Coyle,English,USA,PG-13
+51,Pacific Rim ,Guillermo del Toro,2013.0,7.0,101785482.0,190000000.0,131.0,Charlie Hunnam,Clifton Collins Jr.,English,USA,PG-13
+52,Transformers: Dark of the Moon ,Michael Bay,2011.0,6.3,352358779.0,195000000.0,154.0,Glenn Morshower,Lester Speight,English,USA,PG-13
+53,Indiana Jones and the Kingdom of the Crystal Skull ,Steven Spielberg,2008.0,6.2,317011114.0,185000000.0,122.0,Harrison Ford,Ray Winstone,English,USA,PG-13
+55,Brave ,Mark Andrews,2012.0,7.2,237282182.0,185000000.0,93.0,Kelly Macdonald,John Ratzenberger,English,USA,PG
+56,Star Trek Beyond ,Justin Lin,2016.0,7.5,130468626.0,185000000.0,122.0,Sofia Boutella,Melissa Roxburgh,English,USA,PG-13
+57,WALL·E ,Andrew Stanton,2008.0,8.4,223806889.0,180000000.0,98.0,John Ratzenberger,Fred Willard,English,USA,G
+58,Rush Hour 3 ,Brett Ratner,2007.0,6.2,140080850.0,140000000.0,91.0,Tzi Ma,Dana Ivey,English,USA,PG-13
+59,2012 ,Roland Emmerich,2009.0,5.8,166112167.0,200000000.0,158.0,Oliver Platt,Liam James,English,USA,PG-13
+60,A Christmas Carol ,Robert Zemeckis,2009.0,6.8,137850096.0,200000000.0,96.0,Robin Wright,Colin Firth,English,USA,PG
+61,Jupiter Ascending ,Lana Wachowski,2015.0,5.4,47375327.0,176000000.0,127.0,Channing Tatum,Mila Kunis,English,USA,PG-13
+62,The Legend of Tarzan ,David Yates,2016.0,6.6,124051759.0,180000000.0,110.0,Christoph Waltz,Alexander Skarsgård,English,USA,PG-13
+63,"The Chronicles of Narnia: The Lion, the Witch and the Wardrobe ",Andrew Adamson,2005.0,6.9,291709845.0,180000000.0,150.0,Jim Broadbent,Kiran Shah,English,USA,PG
+64,X-Men: Apocalypse ,Bryan Singer,2016.0,7.3,154985087.0,178000000.0,144.0,Jennifer Lawrence,Michael Fassbender,English,USA,PG-13
+65,The Dark Knight ,Christopher Nolan,2008.0,9.0,533316061.0,185000000.0,152.0,Christian Bale,Heath Ledger,English,USA,PG-13
+66,Up ,Pete Docter,2009.0,8.3,292979556.0,175000000.0,96.0,John Ratzenberger,Delroy Lindo,English,USA,PG
+67,Monsters vs. Aliens ,Rob Letterman,2009.0,6.5,198332128.0,175000000.0,94.0,Amy Poehler,Rainn Wilson,English,USA,PG
+68,Iron Man ,Jon Favreau,2008.0,7.9,318298180.0,140000000.0,126.0,Robert Downey Jr.,Jeff Bridges,English,USA,PG-13
+69,Hugo ,Martin Scorsese,2011.0,7.5,73820094.0,170000000.0,126.0,Chloë Grace Moretz,Christopher Lee,English,USA,PG
+70,Wild Wild West ,Barry Sonnenfeld,1999.0,4.8,113745408.0,170000000.0,106.0,Will Smith,Salma Hayek,English,USA,PG-13
+71,The Mummy: Tomb of the Dragon Emperor ,Rob Cohen,2008.0,5.2,102176165.0,145000000.0,112.0,Jet Li,Brendan Fraser,English,USA,PG-13
+72,Suicide Squad ,David Ayer,2016.0,6.9,161087183.0,175000000.0,123.0,Will Smith,Robin Atkin Downes,English,USA,PG-13
+73,Evan Almighty ,Tom Shadyac,2007.0,5.4,100289690.0,175000000.0,96.0,Jimmy Bennett,Morgan Freeman,English,USA,PG
+74,Edge of Tomorrow ,Doug Liman,2014.0,7.9,100189501.0,178000000.0,113.0,Tom Cruise,Lara Pulver,English,USA,PG-13
+75,Waterworld ,Kevin Reynolds,1995.0,6.1,88246220.0,175000000.0,176.0,Jeanne Tripplehorn,Rick Aviles,English,USA,PG-13
+76,G.I. Joe: The Rise of Cobra ,Stephen Sommers,2009.0,5.8,150167630.0,175000000.0,118.0,Joseph Gordon-Levitt,Dennis Quaid,English,USA,PG-13
+77,Inside Out ,Pete Docter,2015.0,8.3,356454367.0,175000000.0,95.0,Amy Poehler,Mindy Kaling,English,USA,PG
+78,The Jungle Book ,Jon Favreau,2016.0,7.8,362645141.0,175000000.0,106.0,Scarlett Johansson,Bill Murray,English,UK,PG
+79,Iron Man 2 ,Jon Favreau,2010.0,7.0,312057433.0,200000000.0,124.0,Robert Downey Jr.,Scarlett Johansson,English,USA,PG-13
+80,Snow White and the Huntsman ,Rupert Sanders,2012.0,6.1,155111815.0,170000000.0,132.0,Chris Hemsworth,Kristen Stewart,English,USA,PG-13
+81,Maleficent ,Robert Stromberg,2014.0,7.0,241407328.0,180000000.0,97.0,Angelina Jolie Pitt,Sharlto Copley,English,USA,PG
+82,Dawn of the Planet of the Apes ,Matt Reeves,2014.0,7.6,208543795.0,170000000.0,130.0,Gary Oldman,Judy Greer,English,USA,PG-13
+84,47 Ronin ,Carl Rinsch,2013.0,6.3,38297305.0,175000000.0,128.0,Keanu Reeves,Cary-Hiroyuki Tagawa,English,USA,PG-13
+85,Captain America: The Winter Soldier ,Anthony Russo,2014.0,7.8,259746958.0,170000000.0,136.0,Scarlett Johansson,Chris Evans,English,USA,PG-13
+86,Shrek Forever After ,Mike Mitchell,2010.0,6.4,238371987.0,165000000.0,93.0,Jon Hamm,Kathy Griffin,English,USA,PG
+87,Tomorrowland ,Brad Bird,2015.0,6.5,93417865.0,190000000.0,130.0,Judy Greer,Chris Bauer,English,USA,PG
+88,Big Hero 6 ,Don Hall,2014.0,7.9,222487711.0,165000000.0,102.0,Damon Wayans Jr.,Daniel Henney,English,USA,PG
+89,Wreck-It Ralph ,Rich Moore,2012.0,7.8,189412677.0,165000000.0,101.0,Jack McBrayer,Sarah Silverman,English,USA,PG
+90,The Polar Express ,Robert Zemeckis,2004.0,6.6,665426.0,165000000.0,100.0,Tom Hanks,Eddie Deezen,English,USA,G
+91,Independence Day: Resurgence ,Roland Emmerich,2016.0,5.5,102315545.0,165000000.0,120.0,Vivica A. Fox,Sela Ward,English,USA,PG-13
+92,How to Train Your Dragon ,Dean DeBlois,2010.0,8.2,217387997.0,165000000.0,98.0,Gerard Butler,America Ferrera,English,USA,PG
+93,Terminator 3: Rise of the Machines ,Jonathan Mostow,2003.0,6.4,150350192.0,200000000.0,109.0,Nick Stahl,M.C. Gainey,English,USA,R
+94,Guardians of the Galaxy ,James Gunn,2014.0,8.1,333130696.0,170000000.0,121.0,Bradley Cooper,Vin Diesel,English,USA,PG-13
+95,Interstellar ,Christopher Nolan,2014.0,8.6,187991439.0,165000000.0,169.0,Matthew McConaughey,Anne Hathaway,English,USA,PG-13
+96,Inception ,Christopher Nolan,2010.0,8.8,292568851.0,160000000.0,148.0,Leonardo DiCaprio,Tom Hardy,English,USA,PG-13
+98,The Hobbit: An Unexpected Journey ,Peter Jackson,2012.0,7.9,303001229.0,180000000.0,182.0,Aidan Turner,Adam Brown,English,USA,PG-13
+99,The Fast and the Furious ,Rob Cohen,2001.0,6.7,144512310.0,38000000.0,106.0,Paul Walker,Vin Diesel,English,USA,PG-13
+100,The Curious Case of Benjamin Button ,David Fincher,2008.0,7.8,127490802.0,150000000.0,166.0,Brad Pitt,Jason Flemyng,English,USA,PG-13
+101,X-Men: First Class ,Matthew Vaughn,2011.0,7.8,146405371.0,160000000.0,132.0,Jennifer Lawrence,Michael Fassbender,English,USA,PG-13
+102,The Hunger Games: Mockingjay - Part 2 ,Francis Lawrence,2015.0,6.6,281666058.0,160000000.0,137.0,Jennifer Lawrence,Philip Seymour Hoffman,English,USA,PG-13
+103,The Sorcerer's Apprentice ,Jon Turteltaub,2010.0,6.1,63143812.0,150000000.0,109.0,Nicolas Cage,Omar Benson Miller,English,USA,PG
+104,Poseidon ,Wolfgang Petersen,2006.0,5.6,60655503.0,160000000.0,98.0,Jimmy Bennett,Mike Vogel,English,USA,PG-13
+105,Alice Through the Looking Glass ,James Bobin,2016.0,6.4,76846624.0,170000000.0,113.0,Johnny Depp,Alan Rickman,English,USA,PG
+106,Shrek the Third ,Chris Miller,2007.0,6.1,320706665.0,160000000.0,93.0,Justin Timberlake,Eric Idle,English,USA,PG
+107,Warcraft ,Duncan Jones,2016.0,7.3,46978995.0,160000000.0,123.0,Dominic Cooper,Callum Rennie,English,USA,PG-13
+108,Terminator Genisys ,Alan Taylor,2015.0,6.6,89732035.0,155000000.0,126.0,J.K. Simmons,Emilia Clarke,English,USA,PG-13
+109,The Chronicles of Narnia: The Voyage of the Dawn Treader ,Michael Apted,2010.0,6.3,104383624.0,155000000.0,113.0,Bruce Spence,Shane Rangi,English,USA,PG
+110,Pearl Harbor ,Michael Bay,2001.0,6.1,198539855.0,140000000.0,184.0,Jennifer Garner,Jaime King,English,USA,PG-13
+111,Transformers ,Michael Bay,2007.0,7.1,318759914.0,150000000.0,144.0,Zack Ward,Michael O'Neill,English,USA,PG-13
+112,Alexander ,Oliver Stone,2004.0,5.5,34293771.0,155000000.0,206.0,Anthony Hopkins,Angelina Jolie Pitt,English,Germany,R
+113,Harry Potter and the Order of the Phoenix ,David Yates,2007.0,7.5,292000866.0,150000000.0,138.0,Robert Pattinson,Daniel Radcliffe,English,UK,PG-13
+114,Harry Potter and the Goblet of Fire ,Mike Newell,2005.0,7.6,289994397.0,150000000.0,157.0,Robert Pattinson,Daniel Radcliffe,English,UK,PG-13
+115,Hancock ,Peter Berg,2008.0,6.4,227946274.0,150000000.0,102.0,Will Smith,Charlize Theron,English,USA,PG-13
+116,I Am Legend ,Francis Lawrence,2007.0,7.2,256386216.0,150000000.0,104.0,Will Smith,Alice Braga,English,USA,PG-13
+117,Charlie and the Chocolate Factory ,Tim Burton,2005.0,6.7,206456431.0,150000000.0,115.0,Johnny Depp,Christopher Lee,English,USA,PG
+118,Ratatouille ,Brad Bird,2007.0,8.0,206435493.0,150000000.0,111.0,Janeane Garofalo,John Ratzenberger,English,USA,G
+119,Batman Begins ,Christopher Nolan,2005.0,8.3,205343774.0,150000000.0,128.0,Christian Bale,Liam Neeson,English,USA,PG-13
+120,Madagascar: Escape 2 Africa ,Eric Darnell,2008.0,6.7,179982968.0,150000000.0,89.0,Bernie Mac,Jada Pinkett Smith,English,USA,PG
+121,Night at the Museum: Battle of the Smithsonian ,Shawn Levy,2009.0,5.9,177243721.0,150000000.0,105.0,Robin Williams,Rami Malek,English,USA,PG
+122,X-Men Origins: Wolverine ,Gavin Hood,2009.0,6.7,179883016.0,150000000.0,119.0,Hugh Jackman,Ryan Reynolds,English,USA,PG-13
+123,The Matrix Revolutions ,Lana Wachowski,2003.0,6.7,139259759.0,150000000.0,129.0,Essie Davis,Collin Chou,English,Australia,R
+124,Frozen ,Chris Buck,2013.0,7.6,400736600.0,150000000.0,102.0,Josh Gad,Maurice LaMarche,English,USA,PG
+125,The Matrix Reloaded ,Lana Wachowski,2003.0,7.2,281492479.0,150000000.0,138.0,Steve Bastoni,Daniel Bernhardt,English,USA,R
+126,Thor: The Dark World ,Alan Taylor,2013.0,7.1,206360018.0,170000000.0,112.0,Chris Hemsworth,Natalie Portman,English,USA,PG-13
+127,Mad Max: Fury Road ,George Miller,2015.0,8.1,153629485.0,150000000.0,120.0,Tom Hardy,Charlize Theron,English,Australia,R
+128,Angels & Demons ,Ron Howard,2009.0,6.7,133375846.0,150000000.0,146.0,Tom Hanks,Ayelet Zurer,English,USA,PG-13
+129,Thor ,Kenneth Branagh,2011.0,7.0,181015141.0,150000000.0,115.0,Chris Hemsworth,Natalie Portman,English,USA,PG-13
+130,Bolt ,Byron Howard,2008.0,6.9,114053579.0,150000000.0,96.0,Chloë Grace Moretz,Diedrich Bader,English,USA,PG
+131,G-Force ,Hoyt Yeatman,2009.0,5.1,119420252.0,150000000.0,88.0,Kelli Garner,Piper Mackenzie Harris,English,USA,PG
+132,Wrath of the Titans ,Jonathan Liebesman,2012.0,5.8,83640426.0,150000000.0,99.0,Liam Neeson,Edgar Ramírez,English,USA,PG-13
+133,Dark Shadows ,Tim Burton,2012.0,6.2,79711678.0,100000000.0,113.0,Johnny Depp,Chloë Grace Moretz,English,USA,PG-13
+134,Mission: Impossible - Rogue Nation ,Christopher McQuarrie,2015.0,7.4,195000874.0,150000000.0,131.0,Tom Cruise,Jeremy Renner,English,China,PG-13
+135,The Wolfman ,Joe Johnston,2010.0,5.8,61937495.0,150000000.0,119.0,Anthony Hopkins,Simon Merrells,English,USA,R
+136,The Legend of Tarzan ,David Yates,2016.0,6.6,124051759.0,180000000.0,110.0,Christoph Waltz,Alexander Skarsgård,English,USA,PG-13
+137,Bee Movie ,Steve Hickner,2007.0,6.2,126597121.0,150000000.0,91.0,Matthew Broderick,Oprah Winfrey,English,USA,PG
+138,Kung Fu Panda 2 ,Jennifer Yuh Nelson,2011.0,7.3,165230261.0,150000000.0,90.0,Angelina Jolie Pitt,Gary Oldman,English,USA,PG
+139,The Last Airbender ,M. Night Shyamalan,2010.0,4.2,131564731.0,150000000.0,103.0,Seychelle Gabriel,Noah Ringer,English,USA,PG
+140,Mission: Impossible III ,J.J. Abrams,2006.0,6.9,133382309.0,150000000.0,124.0,Philip Seymour Hoffman,Tom Cruise,English,USA,PG-13
+141,White House Down ,Roland Emmerich,2013.0,6.4,73103784.0,150000000.0,131.0,Channing Tatum,Jake Weber,English,USA,PG-13
+142,Mars Needs Moms ,Simon Wells,2011.0,5.4,21379315.0,150000000.0,88.0,Elisabeth Harnois,Dan Fogler,English,USA,PG
+143,Flushed Away ,David Bowers,2006.0,6.7,64459316.0,149000000.0,85.0,Hugh Jackman,Kate Winslet,English,UK,PG
+144,Pan ,Joe Wright,2015.0,5.8,34964818.0,150000000.0,111.0,Hugh Jackman,Cara Delevingne,English,USA,PG
+145,Mr. Peabody & Sherman ,Rob Minkoff,2014.0,6.9,111505642.0,145000000.0,92.0,Ty Burrell,Zach Callison,English,USA,PG
+146,Troy ,Wolfgang Petersen,2004.0,7.2,133228348.0,175000000.0,196.0,Brad Pitt,Orlando Bloom,English,USA,R
+147,Madagascar 3: Europe's Most Wanted ,Eric Darnell,2012.0,6.9,216366733.0,145000000.0,93.0,Jada Pinkett Smith,Martin Short,English,USA,PG
+148,Die Another Day ,Lee Tamahori,2002.0,6.1,160201106.0,142000000.0,133.0,Toby Stephens,Colin Salmon,English,UK,PG-13
+149,Ghostbusters ,Paul Feig,2016.0,5.5,118099659.0,144000000.0,116.0,Ed Begley Jr.,Kate McKinnon,English,USA,PG-13
+150,Armageddon ,Michael Bay,1998.0,6.6,201573391.0,140000000.0,153.0,Bruce Willis,Steve Buscemi,English,USA,PG-13
+151,Men in Black II ,Barry Sonnenfeld,2002.0,6.1,190418803.0,140000000.0,88.0,Will Smith,Rosario Dawson,English,USA,PG-13
+152,Beowulf ,Robert Zemeckis,2007.0,6.3,82161969.0,150000000.0,115.0,Robin Wright,Anthony Hopkins,English,USA,PG-13
+153,Kung Fu Panda 3 ,Alessandro Carloni,2016.0,7.2,143523463.0,145000000.0,95.0,J.K. Simmons,Angelina Jolie Pitt,English,USA,PG
+154,Mission: Impossible - Ghost Protocol ,Brad Bird,2011.0,7.4,209364921.0,145000000.0,133.0,Tom Cruise,Jeremy Renner,English,USA,PG-13
+155,Rise of the Guardians ,Peter Ramsey,2012.0,7.3,103400692.0,145000000.0,97.0,Hugh Jackman,Kamil McFadden,English,USA,PG
+156,Fun with Dick and Jane ,Dean Parisot,2005.0,6.1,110332737.0,100000000.0,90.0,John Michael Higgins,Richard Burgi,English,USA,PG-13
+157,The Last Samurai ,Edward Zwick,2003.0,7.7,111110575.0,140000000.0,154.0,Tom Cruise,Tony Goldwyn,English,USA,R
+158,Exodus: Gods and Kings ,Ridley Scott,2014.0,6.1,65007045.0,140000000.0,150.0,Christian Bale,María Valverde,English,UK,PG-13
+159,Star Trek ,J.J. Abrams,2009.0,8.0,257704099.0,150000000.0,127.0,Chris Hemsworth,Leonard Nimoy,English,USA,PG-13
+160,Spider-Man ,Sam Raimi,2002.0,7.3,403706375.0,139000000.0,121.0,J.K. Simmons,James Franco,English,USA,PG-13
+161,How to Train Your Dragon 2 ,Dean DeBlois,2014.0,7.9,176997107.0,145000000.0,102.0,Gerard Butler,Djimon Hounsou,English,USA,PG
+162,Gods of Egypt ,Alex Proyas,2016.0,5.5,31141074.0,140000000.0,126.0,Gerard Butler,Elodie Yung,English,USA,PG-13
+163,Stealth ,Rob Cohen,2005.0,5.0,31704416.0,135000000.0,121.0,Sam Shepard,Joe Morton,English,USA,PG-13
+164,Watchmen ,Zack Snyder,2009.0,7.7,107503316.0,130000000.0,215.0,Matt Frewer,Billy Crudup,English,USA,R
+165,Lethal Weapon 4 ,Richard Donner,1998.0,6.6,129734803.0,140000000.0,127.0,Jet Li,Rene Russo,English,USA,R
+166,Hulk ,Ang Lee,2003.0,5.7,132122995.0,137000000.0,138.0,Kevin Rankin,Regi Davis,English,USA,PG-13
+167,G.I. Joe: Retaliation ,Jon M. Chu,2013.0,5.8,122512052.0,130000000.0,122.0,Channing Tatum,Dwayne Johnson,English,USA,PG-13
+168,Sahara ,Breck Eisner,2005.0,6.0,68642452.0,130000000.0,124.0,Matthew McConaughey,Rainn Wilson,English,UK,PG-13
+169,Final Fantasy: The Spirits Within ,Hironobu Sakaguchi,2001.0,6.4,32131830.0,137000000.0,106.0,Steve Buscemi,Ming-Na Wen,English,USA,PG-13
+170,Captain America: The First Avenger ,Joe Johnston,2011.0,6.9,176636816.0,140000000.0,124.0,Chris Evans,Dominic Cooper,English,USA,PG-13
+171,The World Is Not Enough ,Michael Apted,1999.0,6.4,126930660.0,135000000.0,128.0,Colin Salmon,Maria Grazia Cucinotta,English,UK,PG-13
+172,Master and Commander: The Far Side of the World ,Peter Weir,2003.0,7.4,93926386.0,150000000.0,138.0,James D'Arcy,Lee Ingleby,English,USA,PG-13
+173,The Twilight Saga: Breaking Dawn - Part 2 ,Bill Condon,2012.0,5.5,292298923.0,120000000.0,115.0,Robert Pattinson,Kristen Stewart,English,USA,PG-13
+174,Happy Feet 2 ,George Miller,2011.0,5.9,63992328.0,135000000.0,100.0,Robin Williams,Brad Pitt,English,Australia,PG
+175,The Incredible Hulk ,Louis Leterrier,2008.0,6.8,134518390.0,150000000.0,135.0,Ty Burrell,Peter Mensah,English,USA,PG-13
+177,The BFG ,Steven Spielberg,2016.0,6.8,52792307.0,140000000.0,117.0,Mark Rylance,Penelope Wilton,English,UK,PG
+178,The Revenant ,Alejandro G. Iñárritu,2015.0,8.1,183635922.0,135000000.0,156.0,Leonardo DiCaprio,Tom Hardy,English,USA,R
+179,Turbo ,David Soren,2013.0,6.5,83024900.0,135000000.0,96.0,Ryan Reynolds,Snoop Dogg,English,USA,PG
+180,Rango ,Gore Verbinski,2011.0,7.2,123207194.0,135000000.0,107.0,Johnny Depp,Ray Winstone,English,USA,PG
+181,Penguins of Madagascar ,Eric Darnell,2014.0,6.7,83348920.0,132000000.0,92.0,Benedict Cumberbatch,Annet Mahendru,English,USA,PG
+182,The Bourne Ultimatum ,Paul Greengrass,2007.0,8.1,227137090.0,110000000.0,115.0,Matt Damon,Edgar Ramírez,English,USA,PG-13
+183,Kung Fu Panda ,Mark Osborne,2008.0,7.6,215395021.0,130000000.0,92.0,Angelina Jolie Pitt,Wayne Knight,English,USA,PG
+184,Ant-Man ,Peyton Reed,2015.0,7.4,180191634.0,130000000.0,117.0,Judy Greer,Hayley Atwell,English,USA,PG-13
+185,The Hunger Games: Catching Fire ,Francis Lawrence,2013.0,7.6,424645577.0,130000000.0,146.0,Jennifer Lawrence,Josh Hutcherson,English,USA,PG-13
+186,The Twilight Saga: Breaking Dawn - Part 2 ,Bill Condon,2012.0,5.5,292298923.0,120000000.0,115.0,Robert Pattinson,Kristen Stewart,English,USA,PG-13
+187,Home ,Tim Johnson,2015.0,6.7,177343675.0,135000000.0,94.0,Jim Parsons,Matt Jones,English,USA,PG
+188,War of the Worlds ,Steven Spielberg,2005.0,6.5,234277056.0,132000000.0,116.0,Tom Cruise,Lisa Ann Walter,English,USA,PG-13
+189,Bad Boys II ,Michael Bay,2003.0,6.6,138396624.0,130000000.0,147.0,Will Smith,Henry Rollins,English,USA,R
+190,Puss in Boots ,Chris Miller,2011.0,6.7,149234747.0,130000000.0,90.0,Salma Hayek,Constance Marie,English,USA,PG
+191,Salt ,Phillip Noyce,2010.0,6.4,118311368.0,110000000.0,101.0,Angelina Jolie Pitt,Andre Braugher,English,USA,PG-13
+192,Noah ,Darren Aronofsky,2014.0,5.8,101160529.0,125000000.0,138.0,Anthony Hopkins,Emma Watson,English,USA,PG-13
+193,The Adventures of Tintin ,Steven Spielberg,2011.0,7.4,77564037.0,135000000.0,107.0,Toby Jones,Mackenzie Crook,English,USA,PG
+194,Harry Potter and the Prisoner of Azkaban ,Alfonso Cuarón,2004.0,7.8,249358727.0,130000000.0,142.0,Daniel Radcliffe,Gary Oldman,English,UK,PG
+195,Australia ,Baz Luhrmann,2008.0,6.6,49551662.0,130000000.0,165.0,Essie Davis,Bryan Brown,English,Australia,PG-13
+196,After Earth ,M. Night Shyamalan,2013.0,4.9,60522097.0,130000000.0,100.0,Will Smith,Zoë Kravitz,English,USA,PG-13
+197,Dinosaur ,Eric Leighton,2000.0,6.5,137748063.0,127500000.0,82.0,Alfre Woodard,D.B. Sweeney,English,USA,PG
+199,Night at the Museum: Secret of the Tomb ,Shawn Levy,2014.0,6.2,113733726.0,127000000.0,98.0,Robin Williams,Rami Malek,English,USA,PG
+200,Megamind ,Tom McGrath,2010.0,7.3,148337537.0,130000000.0,95.0,J.K. Simmons,Brad Pitt,English,USA,PG
+201,Harry Potter and the Sorcerer's Stone ,Chris Columbus,2001.0,7.5,317557891.0,125000000.0,159.0,Daniel Radcliffe,Fiona Shaw,English,UK,PG
+202,R.I.P.D. ,Robert Schwentke,2013.0,5.6,33592415.0,130000000.0,96.0,Ryan Reynolds,Jeff Bridges,English,USA,PG-13
+204,Pirates of the Caribbean: The Curse of the Black Pearl ,Gore Verbinski,2003.0,8.1,305388685.0,140000000.0,143.0,Johnny Depp,Orlando Bloom,English,USA,PG-13
+206,The Hunger Games: Mockingjay - Part 1 ,Francis Lawrence,2014.0,6.7,337103873.0,125000000.0,123.0,Jennifer Lawrence,Philip Seymour Hoffman,English,USA,PG-13
+207,The Da Vinci Code ,Ron Howard,2006.0,6.6,217536138.0,125000000.0,174.0,Tom Hanks,Seth Gabel,English,USA,PG-13
+208,Rio 2 ,Carlos Saldanha,2014.0,6.4,131536019.0,103000000.0,101.0,Miguel Ferrer,Rachel Crow,English,USA,G
+209,X-Men 2 ,Bryan Singer,2003.0,7.5,214948780.0,110000000.0,134.0,Hugh Jackman,Bruce Davison,English,Canada,PG-13
+210,Fast Five ,Justin Lin,2011.0,7.3,209805005.0,125000000.0,132.0,Paul Walker,Vin Diesel,English,USA,PG-13
+211,Sherlock Holmes: A Game of Shadows ,Guy Ritchie,2011.0,7.5,186830669.0,125000000.0,129.0,Robert Downey Jr.,Eddie Marsan,English,USA,PG-13
+212,Clash of the Titans ,Louis Leterrier,2010.0,5.8,163192114.0,125000000.0,106.0,Liam Neeson,Jason Flemyng,English,USA,PG-13
+213,Total Recall ,Paul Verhoeven,1990.0,7.5,119412921.0,65000000.0,113.0,Ronny Cox,Rachel Ticotin,English,USA,R
+214,The 13th Warrior ,John McTiernan,1999.0,6.6,32694788.0,85000000.0,102.0,Tony Curran,Vladimir Kulich,English,USA,R
+215,The Bourne Legacy ,Tony Gilroy,2012.0,6.7,113165635.0,125000000.0,135.0,Jeremy Renner,Scott Glenn,English,USA,PG-13
+216,Batman & Robin ,Joel Schumacher,1997.0,3.7,107285004.0,125000000.0,125.0,Michael Gough,Vivica A. Fox,English,USA,PG-13
+217,How the Grinch Stole Christmas ,Ron Howard,2000.0,6.0,260031035.0,123000000.0,110.0,Clint Howard,T.J. Thyne,English,USA,PG
+218,The Day After Tomorrow ,Roland Emmerich,2004.0,6.4,186739919.0,125000000.0,124.0,Jake Gyllenhaal,Dennis Quaid,English,USA,PG-13
+219,Mission: Impossible II ,John Woo,2000.0,6.1,215397307.0,125000000.0,123.0,Tom Cruise,Dougray Scott,English,USA,PG-13
+220,The Perfect Storm ,Wolfgang Petersen,2000.0,6.4,182618434.0,140000000.0,130.0,Karen Allen,Mary Elizabeth Mastrantonio,English,USA,PG-13
+221,Fantastic 4: Rise of the Silver Surfer ,Tim Story,2007.0,5.6,131920333.0,130000000.0,92.0,Chris Evans,Ioan Gruffudd,English,USA,PG
+222,Life of Pi ,Ang Lee,2012.0,8.0,124976634.0,120000000.0,127.0,Suraj Sharma,Rafe Spall,English,USA,PG
+223,Ghost Rider ,Mark Steven Johnson,2007.0,5.2,115802596.0,110000000.0,123.0,Nicolas Cage,Matt Long,English,USA,PG-13
+224,Jason Bourne ,Paul Greengrass,2016.0,7.1,108521835.0,120000000.0,123.0,Matt Damon,Riz Ahmed,English,UK,PG-13
+225,Charlie's Angels: Full Throttle ,McG,2003.0,4.8,100685880.0,120000000.0,107.0,Demi Moore,Bernie Mac,English,USA,PG-13
+226,Prometheus ,Ridley Scott,2012.0,7.0,126464904.0,130000000.0,124.0,Michael Fassbender,Charlize Theron,English,USA,R
+227,Stuart Little 2 ,Rob Minkoff,2002.0,5.4,64736114.0,120000000.0,77.0,Nathan Lane,Brad Garrett,English,USA,PG
+228,Elysium ,Neill Blomkamp,2013.0,6.6,93050117.0,115000000.0,109.0,Matt Damon,Sharlto Copley,English,USA,R
+229,The Chronicles of Riddick ,David Twohy,2004.0,6.7,57637485.0,105000000.0,134.0,Vin Diesel,Alexa Davalos,English,USA,PG-13
+230,RoboCop ,José Padilha,2014.0,6.2,58607007.0,100000000.0,117.0,Gary Oldman,Abbie Cornish,English,USA,PG-13
+231,Speed Racer ,Lana Wachowski,2008.0,6.1,43929341.0,120000000.0,135.0,Scott Porter,Kick Gurry,English,USA,PG
+232,How Do You Know ,James L. Brooks,2010.0,5.3,30212620.0,120000000.0,121.0,Shelley Conn,Domenick Lombardozzi,English,USA,PG-13
+233,Knight and Day ,James Mangold,2010.0,6.3,76418654.0,117000000.0,117.0,Tom Cruise,Marc Blucas,English,USA,PG-13
+234,Oblivion ,Joseph Kosinski,2013.0,7.0,89021735.0,120000000.0,124.0,Morgan Freeman,Tom Cruise,English,USA,PG-13
+235,Star Wars: Episode III - Revenge of the Sith ,George Lucas,2005.0,7.6,380262555.0,113000000.0,140.0,Natalie Portman,Christopher Lee,English,USA,PG-13
+236,Star Wars: Episode II - Attack of the Clones ,George Lucas,2002.0,6.7,310675583.0,115000000.0,142.0,Natalie Portman,Christopher Lee,English,USA,PG
+237,"Monsters, Inc. ",Pete Docter,2001.0,8.1,289907418.0,115000000.0,92.0,Steve Buscemi,John Ratzenberger,English,USA,G
+238,The Wolverine ,James Mangold,2013.0,6.7,132550960.0,120000000.0,138.0,Hugh Jackman,Tao Okamoto,English,USA,PG-13
+239,Star Wars: Episode I - The Phantom Menace ,George Lucas,1999.0,6.5,474544677.0,115000000.0,136.0,Natalie Portman,Liam Neeson,English,USA,PG
+240,The Croods ,Kirk De Micco,2013.0,7.3,187165546.0,135000000.0,98.0,Ryan Reynolds,Emma Stone,English,USA,PG
+242,Windtalkers ,John Woo,2002.0,6.0,40911830.0,115000000.0,153.0,Nicolas Cage,Roger Willie,English,USA,R
+243,The Huntsman: Winter's War ,Cedric Nicolas-Troyan,2016.0,6.1,47952020.0,115000000.0,120.0,Chris Hemsworth,Sam Claflin,English,USA,PG-13
+244,Teenage Mutant Ninja Turtles ,Jonathan Liebesman,2014.0,5.9,190871240.0,125000000.0,101.0,Noel Fisher,Danny Woodburn,English,USA,PG-13
+245,Gravity ,Alfonso Cuarón,2013.0,7.8,274084951.0,100000000.0,91.0,Phaldut Sharma,Basher Savage,English,UK,PG-13
+246,Dante's Peak ,Roger Donaldson,1997.0,5.8,67155742.0,116000000.0,108.0,Jamie Renée Smith,Grant Heslov,English,USA,PG-13
+247,Teenage Mutant Ninja Turtles: Out of the Shadows ,Dave Green,2016.0,6.3,81638674.0,135000000.0,112.0,Stephen Amell,Noel Fisher,English,USA,PG-13
+248,Fantastic Four ,Josh Trank,2015.0,4.3,56114221.0,120000000.0,100.0,Tim Blake Nelson,Reg E. Cathey,English,USA,PG-13
+249,Night at the Museum ,Shawn Levy,2006.0,6.4,250863268.0,110000000.0,108.0,Robin Williams,Rami Malek,English,USA,PG
+250,San Andreas ,Brad Peyton,2015.0,6.1,155181732.0,110000000.0,114.0,Dwayne Johnson,Ioan Gruffudd,English,USA,PG-13
+251,Tomorrow Never Dies ,Roger Spottiswoode,1997.0,6.5,125332007.0,110000000.0,119.0,Vincent Schiavelli,Colin Salmon,English,UK,PG-13
+252,The Patriot ,Roland Emmerich,2000.0,7.1,113330342.0,110000000.0,142.0,Heath Ledger,Adam Baldwin,English,USA,R
+253,Ocean's Twelve ,Steven Soderbergh,2004.0,6.4,125531634.0,110000000.0,125.0,Brad Pitt,Julia Roberts,English,USA,PG-13
+254,Mr. & Mrs. Smith ,Doug Liman,2005.0,6.5,186336103.0,120000000.0,126.0,Brad Pitt,Angelina Jolie Pitt,English,USA,PG-13
+255,Insurgent ,Robert Schwentke,2015.0,6.3,129995817.0,110000000.0,119.0,Kate Winslet,Theo James,English,USA,PG-13
+256,The Aviator ,Martin Scorsese,2004.0,7.5,102608827.0,110000000.0,170.0,Leonardo DiCaprio,Adam Scott,English,USA,PG-13
